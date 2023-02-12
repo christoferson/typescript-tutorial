@@ -1,7 +1,11 @@
 # typescript-tutorial
 TypeScript Tutorial
 
-## 00 Greetins
+## Install TypeScript
+
+npm install -g typescript
+
+## 00 Greetings | [link](00-greetings)
 
  tsc --target es6 greetings.ts
  
