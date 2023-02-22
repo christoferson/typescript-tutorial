@@ -10,3 +10,5 @@ npm install -g typescript
  tsc --target es6 greetings.ts
  
  node greetings.js
+
+ ## 01 Greetings | [link](00-greetings)
